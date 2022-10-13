@@ -1,0 +1,14 @@
+.dataTable{
+    border: 2px solid black;
+    margin-left:100px ;
+    margin-top: 80px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+.anchorlist{
+    margin-left: 20%;
+    margin-top: 190px;
+         width: 70%;
+
+}
